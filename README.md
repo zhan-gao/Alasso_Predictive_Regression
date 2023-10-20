@@ -4,6 +4,5 @@ To replicate the results, the package [`LasForecast`](https://github.com/zhan-ga
 
 `devtools::install_github("zhan-gao/LasForecast")`
 
-To replicate the simulation results, run `Simulation/master.R`. 
-
-To replicate the results in the empirical application section, run `Welch_Goyal/master_rolling.R`. 
+* Simulation: run `Simulation/master.R`. 
+* Empirical application: run `Welch_Goyal/master_rolling.R`. 
